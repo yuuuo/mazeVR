@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2651c72c337f4f240a469f1e017f8f8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WallPrefab: {instanceID: 0}
+  - FloorPrefab: {instanceID: 0}
+  - BallPrefab: {instanceID: 0}
+  - ControllerPrefab: {instanceID: 0}
+  - trackedObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
